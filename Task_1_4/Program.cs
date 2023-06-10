@@ -9,5 +9,5 @@ int numberC = Convert.ToInt32(Console.ReadLine());
 int max = numberA;
 if (max < numberB) max = numberB;
 if (max < numberC) max = numberC;
-Console.WriteLine($"Максимальное числе из трех равно {max}");
+Console.WriteLine($"Максимальное число из трех равно {max}");
 
